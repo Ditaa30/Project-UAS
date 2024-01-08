@@ -1,4 +1,4 @@
-# Project-UAS
+# CARA KERJA PROGRAM
 
 Buatlah program kasir di sebuah kantin , dengan kondisi berikut:
 
